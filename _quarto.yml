@@ -8,7 +8,6 @@ website:
     left:
       - href: jessdiallo.github.io.qmd
         text: Home
-      - about.qmd
 
 format:
   html:
