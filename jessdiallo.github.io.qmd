@@ -8,13 +8,13 @@ about:
   image-shape: rectangle
   image-width: 20em
   links:
-    - icon: linkedin
+    - icon: "linkedin"
       href: https://www.linkedin.com/in/jessicadiallo/
-    - icon: twitter
+    - icon: "twitter"
       href: https://twitter.com/jess_diallo
-    - icon: github
+    - icon: "github"
       href: https://github.com/jessdiallo
-    - icon: envelope
+    - icon: "envelope"
       href: mailto:jodiallo@uw.edu
 ---
 
