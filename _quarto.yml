@@ -6,7 +6,7 @@ website:
   title: "Jessica Diallo"
   navbar:
     left:
-      - href: jessdiallo.github.io.qmd
+      - href: index.qmd
         text: Home
 
 format:
