@@ -1,5 +1,7 @@
 project:
   title: "jessdiallo.github.io"
+  type: website
+  output-dir: docs
 
 
 
