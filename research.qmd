@@ -4,7 +4,18 @@ title: "Research"
     
 ---
 
-```{r}
+## Update in progress May 2024
 
-```
+
+# Optimizing control of a freshwater invader in time and space
+
+Bayesian hierarchical modeling was used to estimate demographic parameters with existing removal data of green sunfish (*Lepomis cyanellus*) in intermittent streams of the Bill Williams River in Arizona, USA. Resulting probability of eradication was 0.39 for two removal programs conducted years apart but following the same protocol. Alternative management strategies were then simulated, revealing the importance of continued sampling after zero fish are caught and the increased efficiency of dynamic management. 
+
+# Fish invaders cause a lifetime of trophic change in native desert fishes
+
+
+
+# Not all those who wander are lost: leveraging PIT tag data to better understand northern pikeminnow movement in the Columbia River Basin
+
+
 

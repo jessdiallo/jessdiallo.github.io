@@ -9,8 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - research.qmd
-      - href: https://jessdiallo.github.io/JDiallo_CV.pdf
-        text: CV
 
 format:
   html:
