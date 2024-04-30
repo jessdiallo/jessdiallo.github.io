@@ -4,18 +4,20 @@ title: "Research"
     
 ---
 
-## Update in progress May 2024
+*Update in progress May 2024*
 
 
 # Optimizing control of a freshwater invader in time and space
 
-Bayesian hierarchical modeling was used to estimate demographic parameters with existing removal data of green sunfish (*Lepomis cyanellus*) in intermittent streams of the Bill Williams River in Arizona, USA. Resulting probability of eradication was 0.39 for two removal programs conducted years apart but following the same protocol. Alternative management strategies were then simulated, revealing the importance of continued sampling after zero fish are caught and the increased efficiency of dynamic management. 
+Bayesian hierarchical modeling was used to estimate demographic parameters with existing removal data of green sunfish (*Lepomis cyanellus*) in intermittent streams of the Bill Williams River in Arizona, USA. Resulting probability of eradication was 0.39 for two removal programs conducted years apart but following the same protocol. Alternative management strategies were then simulated, revealing the importance of continued sampling after zero fish are captured and the increased efficiency of dynamic management. 
 
 # Fish invaders cause a lifetime of trophic change in native desert fishes
 
 
 
-# Not all those who wander are lost: leveraging PIT tag data to better understand northern pikeminnow movement in the Columbia River Basin
 
 
+# Leveraging PIT tag data to better understand northern pikeminnow movement in the Columbia River Basin
+
+Northern pikeminnow are a native predator of juvenile salmonids in the Columbia River Basin. Since 1991, the Northern Pikeminnow Management Program has targetted northern pikeminnow for harvest using a sport reward fishery. The goal of the program is to shift the size distribution to smaller individuals that consume fewer juvenile salmonids, thereby reducing predation. One of the program's metrics of success is exploitation rate, which is calculated through tagging and releasing northern pikeminnow. Since 2003, northern pikeminnow have been PIT tagged 
 
