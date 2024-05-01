@@ -31,18 +31,18 @@ Invasive fishes modify the structure and function of riverine food webs through 
 
 
 ![](images/lab-work.png "Lab Work")
-*Jess conducting fish eye lens dissection for stable isotope analysis (left image). Partially dissected eye lens (top right image). Stable isotope results for a single roundtail chub. Eye lens layers are plotted as individual points from the core (1) to the outer layer (8) (bottom right image)*
+*Jess conducting fish eye lens dissection for stable isotope analysis (left). Partially dissected eye lens (top right). Stable isotope results for a single roundtail chub. Eye lens layers are plotted as individual points from the core (1) to the outer layer (8) (bottom right)*
+
 
 
 Otoliths from captured fish were used to age the fish and link eye lens layers to fish age and points in time. This is possible using species-specific relationships between fish length and eye lens diameter, fish length and otolith diameter, as well as individual fish measurements of growth (age vs. fish length).
 
 
-![](images/BU-1-GIRO-02.jpg "Roundtail Chub Lapilli")
-*Roundtail chub lapillar otoliths (otolith width ~ 2mm)*
+![](images/Otoliths.png "Otoliths")
+*Roundtail chub lapillar otoliths (top left), green sunfish sagittal otoliths (bottom left), roundtail chub polished lapillar otoliths (top and bottom right). Otolith width ~ 2mm*
 
 
 ## Leveraging PIT tag data to better understand northern pikeminnow movement in the Columbia River Basin
 
-Northern pikeminnow are a native predator of juvenile salmonids in the Columbia River Basin. Since 1991, the Northern Pikeminnow Management Program has targetted northern pikeminnow for harvest using a sport reward fishery. The goal of the program is to shift the size distribution to smaller individuals that consume fewer juvenile salmonids, thereby reducing predation. One of the program's metrics of success is exploitation rate, which is calculated through tagging and releasing northern pikeminnow. Since 2003, northern pikeminnow have been PIT tagged 
-
+Northern pikeminnow are native to the Columbia River, but their increased predation of juvenile salmonids due to habitat modification has led to long-term population control efforts. The Northern Pikeminnow Management Program (NPMP) is a targeted harvest program, comprised primarily of a sport reward fishery, that has been operating in the Columbia and Lower Snake Rivers since 1991. As a result of this sport reward fishery, over 5.5 million piscivorous (≥ 200mm FL) northern pikeminnow have been harvested for cash rewards. Each year data are collected to monitor and evaluate the program. Northern pikeminnow have been PIT tagged through the NPMP since 2003 to calculate the program’s exploitation rate, with the goal of reducing the population by 10-20%. The model used assumes closed populations separated by dams and leads to an estimated annual reduction in predation. After being tagged, most northern pikeminnow are never recaptured, but their movement is passively tracked by PIT tag antennas. We combined data from the Columbia Basin PIT Tag Information System (PTAGIS) database with NPMP tagging and harvest data. Initial results reveal that individuals traveled as far as 968 km. Nearly 13% of northern pikeminnow harvested through the NPMP were captured in different reservoirs (or river sections separated by dams) than where they were initially tagged. Understanding northern pikeminnow movement will inform the exploitation rate calculation as one of the key measures of NPMP success. As the NPMP evolves over time, information on northern pikeminnow movement may also inform future management strategies.
 
