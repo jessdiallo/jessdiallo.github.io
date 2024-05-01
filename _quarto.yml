@@ -8,6 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - research.qmd
       - href: "JDiallo_CV.pdf"
         text: CV
 
