@@ -1,13 +1,13 @@
 ---
-title: "Research"
+title: "Current Research"
 
     
 ---
 
-*Update in progress May 2024*
+*Website update in progress May 2024*
 
 
-# Optimizing control of a freshwater invader in time and space
+## Optimizing control of a freshwater invader in time and space
 *Manuscript under review*
 
 Bayesian hierarchical modeling was used to estimate demographic parameters with existing removal data of green sunfish (*Lepomis cyanellus*) in intermittent streams of the Bill Williams River in Arizona, USA. Resulting probability of eradication was 0.39 for two removal programs conducted years apart but following the same protocol. Alternative management strategies were then simulated, revealing the importance of continued sampling after zero fish are captured and the increased efficiency of dynamic management. 
@@ -16,16 +16,38 @@ Bayesian hierarchical modeling was used to estimate demographic parameters with 
 *Map of tributaries within Trout Creek, AZ watershed where the Arizona Game and Fish Department (AZGFD) conducted green sunfish removals. Removal sites are identified by points. Panel A is the watershed including all removal sites, panel B is East Ash Creek, and panel C is McGee Wash. Panel D is AZGFD staff using a seine net to remove fish (photo credit AZGFD), panel E is a net full of green sunfish (photo credit Julian Olden), panel F is one of the pools in McGee Wash (photo credit AZGFD), and panel G is a close up of a green sunfish caught in Burro Creek within the Bill Williams River Basin, AZ (photo credit Jessica Diallo).*
 
 ![](images/MGW-model.png "Model Results")
-*Model estimated green sunfish population (line) and number removed (grey bars) over time in McGee Wash. Insets show posterior probability distributions of the total population at the start (upper left) and end (lower right) of the removal program. Grey ribbon represents the 95% credible interval.*
+*Model estimated green sunfish population (line) and number removed (grey bars) over time in McGee Wash, Arizona. Insets show posterior probability distributions of the total population at the start (upper left) and end (lower right) of the removal program. Grey ribbon represents the 95% credible interval.*
 
 
-# Fish invaders cause a lifetime of trophic change in native desert fishes
+## Fish invaders cause a lifetime of trophic change in native desert fishes
+*Manuscript in preparation*
+
+[UW Research Spotlight](https://fish.uw.edu/2024/01/taking-a-deeper-look-using-fish-eye-lenses-to-explore-invasive-fish-impacts-on-native-fish-communities/)
+
+Invasive fishes modify the structure and function of riverine food webs through their presence and competitive and predatory interactions with native fishes. The degree of trophic plasticity of native fishes at different life stages in response to invaders is unknown. This research provides insight into life-long trends in dietary isotope values using fish eye lenses that grow incrementally and are comprised of metabolically inert, proteinaceous tissue. The findings demonstrate significant shifts in 13C/12C and 15N/14N throughout an individual’s lifetime that vary ontogenetically and differ for native species in native-only versus mixed native-invasive fish assemblages. Trophic level generally increases throughout ontogeny, with native fishes in mixed assemblages displaced to a lower trophic position compared to native-only. Native fish conservation should consider how invasive fishes impact native fishes at multiple life stages, with implications for individual growth and population persistence.
+
+![](images/BPEF_Jess.jpeg "Backpack Electrofishing")
+*Jess using backpack electrofishing to capture fish in Conger Creek, Arizona (April 2021)*
+
+![](images/roundtail-chub.jpg "Roundtail Chub")
+*A roundtail chub (Gila robusta) captured in Burro Creek, Arizona (April 2021)*
+
+![](images/eye-peeling_pic.jpg "Eye Dissection")
+*Fish eye lens dissection for stable isotope analysis*
 
 
+![](images/roundtail-chub-SIA-path.png "Roundtail Chub SIA Path")
+*Stable isotope results for a single roundtail chub. Eye lens layers are plotted as individual points from the core (bottom left) to the outer layer (upper right)*
 
 
+Otoliths from captured fish were used to age the fish and link eye lens layers to fish age and points in time. This is possible using species-specific relationships between fish length and eye lens diameter, fish length and otolith diameter, as well as individual fish measurements of growth (age vs. fish length).
 
-# Leveraging PIT tag data to better understand northern pikeminnow movement in the Columbia River Basin
+
+![](images/BU-1-GIRO-02.jpg "Roundtail Chub Lapilli")
+*Roundtail chub lapillar otoliths (otolith width ~ 2mm)*
+
+
+## Leveraging PIT tag data to better understand northern pikeminnow movement in the Columbia River Basin
 
 Northern pikeminnow are a native predator of juvenile salmonids in the Columbia River Basin. Since 1991, the Northern Pikeminnow Management Program has targetted northern pikeminnow for harvest using a sport reward fishery. The goal of the program is to shift the size distribution to smaller individuals that consume fewer juvenile salmonids, thereby reducing predation. One of the program's metrics of success is exploitation rate, which is calculated through tagging and releasing northern pikeminnow. Since 2003, northern pikeminnow have been PIT tagged 
 
