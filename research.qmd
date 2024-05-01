@@ -4,8 +4,7 @@ title: "Current Research"
     
 ---
 
-# Optimizing control of a freshwater invader  
-in time and space
+# Optimizing control of a freshwater invader in time and space
 
 *Manuscript under review*
 
@@ -21,8 +20,7 @@ The continued and growing impacts of invasive freshwater fishes has prompted man
 *Model estimated green sunfish population (line) and number removed (grey bars) over time in McGee Wash, Arizona. Insets show posterior probability distributions of the total population at the start (upper left) and end (lower right) of the removal program. Grey ribbon represents the 95% credible interval.*
 
 
-# Fish invaders cause a lifetime of trophic change  
-in native desert fishes
+# Fish invaders cause a lifetime of trophic change in native desert fishes
 *Manuscript in preparation*
 
 [UW Research Spotlight](https://fish.uw.edu/2024/01/taking-a-deeper-look-using-fish-eye-lenses-to-explore-invasive-fish-impacts-on-native-fish-communities/)
