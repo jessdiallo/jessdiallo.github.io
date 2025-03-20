@@ -12,7 +12,7 @@ about:
       href: https://www.linkedin.com/in/jessicadiallo/
     - icon: "{{< iconify fa6-brands:bluesky >}}"
       href: https://bsky.app/profile/jessdiallo.bsky.social
-    - icon: "github" 
+    - icon: "github"
       href: https://github.com/jessdiallo
     - icon: "envelope"
       href: mailto:jodiallo@uw.edu
