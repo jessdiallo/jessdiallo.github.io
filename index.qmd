@@ -10,8 +10,8 @@ about:
   links:
     - icon: "linkedin"
       href: https://www.linkedin.com/in/jessicadiallo/
-    - icon: "twitter"
-      href: https://twitter.com/jess_diallo
+    - icon: "bluesky"
+      href: https://bsky.app/profile/jessdiallo.bsky.social
     - icon: "github"
       href: https://github.com/jessdiallo
     - icon: "envelope"
