@@ -9,6 +9,7 @@ title: "Current Research"
 *Manuscript in press (Ecological Applications)*
 
 Co-authors: Sarah Converse^1^, Matt Chmiel^2^, Andy Stites^2^, Julian Olden^1^
+
 1: University of Washington
 2: Arizona Game and Fish Department
 
@@ -50,7 +51,8 @@ Otoliths from captured fish were used to age the fish and link eye lens layers t
 
 # Leveraging PIT tag data to better understand northern pikeminnow movement in the Columbia River Basin
 
-Collaborators: Beth Sanderson^1^, Katie Barnas^1^, Jim Faulkner^1^, Grant Waltz^2^, Eric Winther^3^, and Julian Olden^4^
+Co-authors: Beth Sanderson^1^, Katie Barnas^1^, Jim Faulkner^1^, Grant Waltz^2^, Eric Winther^3^, and Julian Olden^4^
+
 1: NOAA Northwest Fisheries Science Center
 2: Oregon Department of Fish and Wildlife
 3: Washington Department of Fish and Wildlife
@@ -58,13 +60,18 @@ Collaborators: Beth Sanderson^1^, Katie Barnas^1^, Jim Faulkner^1^, Grant Waltz^
 
 Northern pikeminnow are native to the Columbia River, but their increased predation of juvenile salmonids due to habitat modification has led to long-term population control efforts. The Northern Pikeminnow Management Program (NPMP) is a targeted harvest program, comprised primarily of a sport reward fishery, that has been operating in the Columbia and Lower Snake Rivers since 1991. As a result of this sport reward fishery, over 5.5 million piscivorous (≥ 200mm FL) northern pikeminnow have been harvested for cash rewards. Each year data are collected to monitor and evaluate the program. Northern pikeminnow have been PIT tagged through the NPMP since 2003 to calculate the program’s exploitation rate, with the goal of reducing the population by 10-20%. The model used assumes closed populations separated by dams and leads to an estimated annual reduction in predation. After being tagged, most northern pikeminnow are never recaptured, but their movement is passively tracked by PIT tag antennas. We combined data from the Columbia Basin PIT Tag Information System (PTAGIS) database with NPMP tagging and harvest data. Initial results reveal that individuals traveled as far as 968 km. Nearly 13% of northern pikeminnow harvested through the NPMP were captured in different reservoirs (or river sections separated by dams) than where they were initially tagged. Understanding northern pikeminnow movement will inform the exploitation rate calculation as one of the key measures of NPMP success. As the NPMP evolves over time, information on northern pikeminnow movement may also inform future management strategies.
 
+
 ![](images/northernpikeminnow.png "Northern Pikeminnow")
 
 *Northern pikeminnow (photo credit: Fernando Lessa)*
 
+
+
 ![](images/NPMP-data.png "Detection Types Post-Tagging")
 
 *Barplot displaying the detection types for 5967 northern pikeminnow subsequently detected after being tagged through the Northern Pikeminnow Management Program.*
+
+
 
 ![](images/NPMP.png "Chord Diagram of Movement Across Reaches")
 
