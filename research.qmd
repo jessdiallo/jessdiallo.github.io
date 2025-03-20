@@ -6,7 +6,7 @@ title: "Current Research"
 
 # Optimizing control of a freshwater invader in time and space
 
-*Manuscript under review*
+*Manuscript in press (Ecological Applications)*
 
 Co-authors: Sarah Converse, Matt Chmiel, Andy Stites, Julian Olden
 
@@ -14,14 +14,15 @@ The continued and growing impacts of invasive freshwater fishes has prompted man
 
 
 ![](images/green-sunfish-map.png "Green Sunfish")
-*Map of tributaries within Trout Creek, AZ watershed where the Arizona Game and Fish Department (AZGFD) conducted green sunfish removals. Removal sites are identified by points. Panel A is the watershed including all removal sites, panel B is East Ash Creek, and panel C is McGee Wash. Panel D is AZGFD staff using a seine net to remove fish (photo credit AZGFD), panel E is a net full of green sunfish (photo credit Julian Olden), panel F is one of the pools in McGee Wash (photo credit AZGFD), and panel G is a close up of a green sunfish caught in Burro Creek within the Bill Williams River Basin, AZ (photo credit Jessica Diallo).*
+*Map of tributaries within Trout Creek, AZ watershed where the Arizona Game and Fish Department (AZGFD) conducted green sunfish removals. Removal sites are identified by points. Panel A is the watershed including all removal sites, panel B is East Ash Creek, and panel C is McGee Wash. Panel D is AZGFD biologist David Partridge using a backpack electrofisher to remove fish from East Ash Creek (photo credit Gregg Cummins), panel E is a net full of green sunfish (photo credit Julian Olden), panel F is one of the pools in McGee Wash (photo credit Andy Stites), and panel G is a close up of a green sunfish caught in Burro Creek within the Bill Williams River basin, AZ (photo credit Jessica Diallo). Bottom left inset shows the greater region with the Bill Williams River basin in dark brown and a red star identifying the location of green sunfish removals.*
 
 ![](images/MGW-model.png "Model Results")
 *Model estimated green sunfish population (line) and number removed (grey bars) over time in McGee Wash, Arizona. Insets show posterior probability distributions of the total population at the start (upper left) and end (lower right) of the removal program. Grey ribbon represents the 95% credible interval.*
 
 
-# Fish invaders cause a lifetime of trophic change in native desert fishes
-*Manuscript in preparation*
+# Fish invaders invoke a lifetime of trophic change in native desert fishes
+
+*Manuscript in review*
 
 [UW Research Spotlight](https://fish.uw.edu/2024/01/taking-a-deeper-look-using-fish-eye-lenses-to-explore-invasive-fish-impacts-on-native-fish-communities/)
 
@@ -45,7 +46,24 @@ Otoliths from captured fish were used to age the fish and link eye lens layers t
 
 # Leveraging PIT tag data to better understand northern pikeminnow movement in the Columbia River Basin
 
-Collaborators at NOAA's Northwest Fisheries Science Center: Beth Sanderson, Katie Barnas, and Jim Faulkner
+Collaborators: Beth Sanderson^1^, Katie Barnas^1^, Jim Faulkner^1^, Grant Waltz^2^, Eric Winther^3^, and Julian Olden^4^
+1: NOAA Northwest Fisheries Science Center
+2: Oregon Department of Fish and Wildlife
+3: Washington Department of Fish and Wildlife
+4: University of Washington
 
 Northern pikeminnow are native to the Columbia River, but their increased predation of juvenile salmonids due to habitat modification has led to long-term population control efforts. The Northern Pikeminnow Management Program (NPMP) is a targeted harvest program, comprised primarily of a sport reward fishery, that has been operating in the Columbia and Lower Snake Rivers since 1991. As a result of this sport reward fishery, over 5.5 million piscivorous (≥ 200mm FL) northern pikeminnow have been harvested for cash rewards. Each year data are collected to monitor and evaluate the program. Northern pikeminnow have been PIT tagged through the NPMP since 2003 to calculate the program’s exploitation rate, with the goal of reducing the population by 10-20%. The model used assumes closed populations separated by dams and leads to an estimated annual reduction in predation. After being tagged, most northern pikeminnow are never recaptured, but their movement is passively tracked by PIT tag antennas. We combined data from the Columbia Basin PIT Tag Information System (PTAGIS) database with NPMP tagging and harvest data. Initial results reveal that individuals traveled as far as 968 km. Nearly 13% of northern pikeminnow harvested through the NPMP were captured in different reservoirs (or river sections separated by dams) than where they were initially tagged. Understanding northern pikeminnow movement will inform the exploitation rate calculation as one of the key measures of NPMP success. As the NPMP evolves over time, information on northern pikeminnow movement may also inform future management strategies.
+
+![](images/northernpikeminnow.png "Northern Pikeminnow")
+
+*Northern pikeminnow (photo credit: Fernando Lessa)*
+
+![](images/NPMP-data.png "Detection Types Post-Tagging")
+
+*Barplot displaying the detection types for 5967 northern pikeminnow subsequently detected after being tagged through the Northern Pikeminnow Management Program.*
+
+![](images/NPMP.png "Chord Diagram of Movement Across Reaches")
+
+*Top figure is a chord diagram displaying the movement of PIT-tagged northern pikeminnow across dams within the bounds of the Northern Pikeminnow Management Program. Each number represents a single fish and the furthest they were detected traveling. Arrows indicate movement between adjacent reaches with the thickness proportional to the number of fish. Shaded areas without arrows represent fish that were only detected in their tagged reach. Numbered labels 1-9 identify river reaches or reservoirs separated by dams (as shown in the map below).*
+
 
