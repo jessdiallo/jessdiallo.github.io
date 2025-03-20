@@ -10,7 +10,7 @@ about:
   links:
     - icon: "linkedin"
       href: https://www.linkedin.com/in/jessicadiallo/
-    - icon: "bluesky"
+    - icon: "{{< iconify fa6-brands:bluesky >}}"
       href: https://bsky.app/profile/jessdiallo.bsky.social
     - icon: "github"
       href: https://github.com/jessdiallo
